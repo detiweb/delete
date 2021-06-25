@@ -1,0 +1,112 @@
+body {
+	font-size: 30px;
+	background: #3B3B58;
+	font-family: 'Caveat', cursive;
+	color: #FAC8CD ;
+	margin: 0;
+	padding: 0;
+}
+header {
+	background-color: #7A5980;
+}
+footer {
+	background-color: #7A5980;
+}
+h1 {
+	text-align: center;
+	background-color: #D7BCC8 ;
+	color: #030301;
+}
+.a {
+	text-decoration: none;
+	background-color: #AF93B4 ;
+	border: solid #AF93B4 5px;
+	border-radius: 3px;
+	color: black ;
+}
+.logo {
+	width: 150px;
+}
+.container {
+	margin-left: 80% ;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+.mail {
+	width: 75px ;
+	text-decoration: none;
+	background-color: #AF93B4 ;
+	border: solid #AF93B4 5px;
+	border-radius: 3px;
+	color: #cd5957 ;
+}
+.mail:hover{
+	background-color: white;
+	border-color: white;
+}
+.forma {
+	text-align: center;
+}
+nav {
+	text-align: center;
+	background-color: #D7BCC8;
+	border: solid #D7BCC8 15px;
+}
+.kot {
+	width: 15% ;
+	padding-left: 10%;
+}
+.p {
+	display: inline-block;
+	width: 70%;
+}
+.p1 {
+	display: inline-block;
+	width: 70%;
+}
+.div {
+	display: inline-block;
+	background-color: #D7BCC8;
+	height: 300px;
+	width: 400px;
+	margin-left: 5%;
+	margin-top: 15px;
+	color: black;
+}
+.jot {
+	width: 45%;
+}
+.p2 {
+	width: ;
+}
+button {
+	width: 150px;
+	height: 50px;
+	background-color: #D7BCC8;
+	color: black;
+	font-size: 20px;
+	border: solid #D7BCC8;
+}
+.a:hover {
+	background-color: #5C4360;
+	border-color: #5C4360;
+}
+.span {
+	font-size: 30px;
+}
+.high {
+	width: 10%;
+	height: 10%;
+	position: fixed;
+	left: 90%;
+	top: 80%;
+	z-index: 12;
+}
+.up {
+	width: 100%;
+}
+button:hover {
+	background-color: #D7BCC8;
+	border-color: #D7BCC8;
+}
